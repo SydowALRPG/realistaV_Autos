@@ -1,0 +1,7 @@
+{
+  "defaultLanguage": "en",
+  "GoogleSheetsURL": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSDEy_43co7Bu_vTe1_iopYkmcFGCO6K1iBVgjtaEhbvO9DH6sIckeGGbRDqGUaa0cLsVTRxC52ryfY/pub?gid=286285351&single=true&output=csv",
+  "itemsPerPage": 18,
+  "useGoogleSheets": false,
+  "localJsonPath": "./assets/data/vehicles.json"
+}
