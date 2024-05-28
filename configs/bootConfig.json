@@ -1,0 +1,7 @@
+{
+    "defaultLanguage": "en",
+    "GoogleSheetsURL": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTo8i7o9SqHWK23__QrV3rBeJzJeWkgz4-Md_wjBg-v3JH4GBNMyGncjBfwpBzssZSAVl1ZSvH0pptD/pub?gid=66227705&single=true&output=csv",
+    "itemsPerPage": 18,
+    "useGoogleSheets": false,
+    "localJsonPath": "./assets/data/boot.json"
+  }
