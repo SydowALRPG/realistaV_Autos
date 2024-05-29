@@ -1,4 +1,4 @@
-{
+stwagen{
   "car-dealer": "Vehicle Shop",
   "vehicles": "Vehicles",
   "welcome-vehicles": "Welcome to LS Vehicle Shop",
@@ -7,7 +7,7 @@
   "seats": "Seats",
   "cars": "Cars",
   "motorcycles": "Motorcycles",
-  "cycles": "Cycles",
+  "cycles": "Dienstwagen",
   "planes": "Planes",
   "helicopters": "Helicopters",
   "boats": "Boats",
